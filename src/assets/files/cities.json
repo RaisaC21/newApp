@@ -1,22 +1,7 @@
 {
   "data": [
-    {
-      "id": 1,
-      "name": "Alicante",
-      "image": "alicante.jpeg",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pellentesque tempus ante, at sollicitudin nibh scelerisque vel. Nunc efficitur nulla sed ex efficitur ullamcorper. Nullam."
-    },
-    {
-      "id": 2,
-      "name": "Valencia",
-      "image": "valencia.jpg",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pellentesque tempus ante, at sollicitudin nibh scelerisque vel. Nunc efficitur nulla sed ex efficitur ullamcorper. Nullam."
-    },
-    {
-      "id": 3,
-      "name": "Castellón",
-      "image": "castellon.jpg",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pellentesque tempus ante, at sollicitudin nibh scelerisque vel. Nunc efficitur nulla sed ex efficitur ullamcorper. Nullam."
-    }
+    { "name": "Alicante", "image": "alicante.jpeg" },
+    { "name": "Valencia", "image": "valencia.jpg" },
+    { "name": "Castellón", "image": "castellon.jpg" }
   ]
 }
