@@ -21,3 +21,8 @@ ion-title {
   top: 50%;
   transform: translateY(-50%);
 }
+
+ion-menu-button{
+  background-color: var(--ion-color-mycolor);
+  color: white;
+}

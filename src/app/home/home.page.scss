@@ -28,3 +28,23 @@ ion-title {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.container-btn-scanner{
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.button-scanner{
+  margin-bottom: 30px;
+}
+
+.button-geo{
+  display: none;
+  margin-bottom: 30px;
+}
+
+ion-menu-button{
+  background-color: var(--ion-color-mycolor);
+  color: white;
+}
